@@ -31,7 +31,7 @@ import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
 
-    private String youtube_API_KEY = "AIzaSyC5b7DkZUifliBcjzZ7tdvQJnZlhiZz3N4";
+    private String youtube_API_KEY = "AIzaSyC5b7DkZUifliBcjzZ7tdvQJnZlhiZz3N4";//This key is deleted now
     private RequestQueue requestQueue ;
     private String Base_url = "https://www.googleapis.com/youtube/v3/search?part=snippet&key="+youtube_API_KEY+"&type=video&maxResults=15&q=";
     private JsonObjectRequest jsonObjectRequest;
