@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3D5AFE</color>
+    <color name="colorPrimaryDark">#304FFE</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorVideoSuggestionBackground">#FAFAFA</color>
+    <color name="colorTitle">#FAFAFA</color>
+    <color name="colorChannelTitle">#DADADA</color>
+    <color name="colorDate">#BABABA</color>
+</resources>
